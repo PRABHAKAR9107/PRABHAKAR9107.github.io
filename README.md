@@ -3,6 +3,6 @@
 It is my portfolio.
 visit my portfolio.
 
-## Copyright and License
+## Copyright 
 
-Copyright 2013-2018 Blackrock Digital LLC. 
+@2018 all rights reserved.
