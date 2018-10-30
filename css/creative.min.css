@@ -4,7 +4,7 @@ body,html{width:100%;height:100%}body{font-family:Merriweather,'Helvetica Neue',
 .footer #button{
 	width:35px;
 	height:35px;
-	border: #727172 12px solid;
+	border: #FF6347 12px solid;
 	border-radius:35px;
 	margin:0 auto;
 	position:relative;
@@ -30,7 +30,7 @@ body,html{width:100%;height:100%}body{font-family:Merriweather,'Helvetica Neue',
 	left:0;
 	position:fixed;
     width: 100%;
-    height: 2em;
+    height: 1em;
     overflow:hidden;
     margin:0 auto;
 	-webkit-transition: all 1s ease;
