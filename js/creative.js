@@ -1,5 +1,8 @@
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c0ceee652ea0990a760f9892f1112465f1775030
 (function($) {
   "use strict"; // Start of use strict
 
