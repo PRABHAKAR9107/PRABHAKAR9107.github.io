@@ -5,4 +5,4 @@ visit my portfolio.
 
 ## Copyright 
 
-@2018 all rights reserved.
+@2020 all rights reserved.
