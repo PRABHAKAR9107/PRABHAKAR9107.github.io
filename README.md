@@ -1,6 +1,6 @@
 
 ## About
-It is my portfolio.
+Welcome to  my portfolio.
 visit my portfolio.
 
 ## Copyright 
